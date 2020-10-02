@@ -56,6 +56,7 @@
     - [MySQL性能优化-实践篇1](https://mp.weixin.qq.com/s/Etb39rkjtG32_jIAN0TUnQ)
     - [MySQL性能优化-实践篇2](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449993711&idx=1&sn=9919c439750cffb835ec1fef410ccf07&chksm=8838cf17bf4f4601f7a0c6f9800c92de8a81ee557283db167306a44ae69b23146d14974c092e&scene=178#rd)
     - [深入理解MySQL锁与事物隔离级别](https://www.juejin.im/post/6875264015048638472)
+    - [深入理解MySQL锁类型与加锁原理](https://juejin.im/post/6878884451162521613/)
     - [Tomcat深入解析与性能优化](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449993199&idx=1&sn=ccbc65a939a8feb878355f357b6cd840&chksm=8838cd17bf4f44015274633bde1941301d743af6f9358be7a8bcb14e4e71a78bc2d8fa0b8c72&token=191979212&lang=zh_CN#rd)
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
