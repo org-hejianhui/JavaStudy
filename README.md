@@ -59,6 +59,12 @@
     - [深入理解MySQL锁类型与加锁原理](https://juejin.im/post/6878884451162521613/)
     - [Tomcat深入解析与性能优化](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449993199&idx=1&sn=ccbc65a939a8feb878355f357b6cd840&chksm=8838cd17bf4f44015274633bde1941301d743af6f9358be7a8bcb14e4e71a78bc2d8fa0b8c72&token=191979212&lang=zh_CN#rd)
 
+- 分布式专题
+
+    - [Zookeeper特性与节点说明](https://mp.weixin.qq.com/s/anREHyQ_nsV3kYWN9fhYBw)
+    - [Zookeeper客户端使用与集群原理](https://mp.weixin.qq.com/s/K4iSWeIaz-R-cirxZC15zg)
+   
+
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
 
   <a name="微信"></a>  <a name="公众号"></a>
