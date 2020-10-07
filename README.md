@@ -63,6 +63,7 @@
 
     - [Zookeeper特性与节点说明](https://mp.weixin.qq.com/s/anREHyQ_nsV3kYWN9fhYBw)
     - [Zookeeper客户端使用与集群原理](https://mp.weixin.qq.com/s/K4iSWeIaz-R-cirxZC15zg)
+    - [Zookeeper 典型使用场景实践](https://mp.weixin.qq.com/s/InX_ZEbH2yn1XXcaxoWPCA)
    
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
