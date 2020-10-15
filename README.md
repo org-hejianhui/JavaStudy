@@ -64,6 +64,12 @@
     - [Zookeeper特性与节点说明](https://mp.weixin.qq.com/s/anREHyQ_nsV3kYWN9fhYBw)
     - [Zookeeper客户端使用与集群原理](https://mp.weixin.qq.com/s/K4iSWeIaz-R-cirxZC15zg)
     - [Zookeeper 典型使用场景实践](https://mp.weixin.qq.com/s/InX_ZEbH2yn1XXcaxoWPCA)
+    - [Zookeeper ZAB协议实现源码分析](https://mp.weixin.qq.com/s/xilwdV145J2OdCTfea0diA)
+    
+    - [BIO 、NIO 、AIO 总结](https://mp.weixin.qq.com/s/7DrH3vdl0xVJp97Q-fjTAA)
+    - [Unix网络编程中的五种IO模型](https://mp.weixin.qq.com/s/T-hP3wt4whtvVh1H1LBU3w)
+    - [深入理解IO多路复用实现机制](https://mp.weixin.qq.com/s/9uHat2nHy-fn3lbWJj5JZg)
+    - [深入理解Netty核心功能与线程模型](https://mp.weixin.qq.com/s/84guHGNjabazxRcI9NMnkw)
    
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
