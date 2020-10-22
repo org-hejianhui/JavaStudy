@@ -48,6 +48,17 @@
     - LRU Cache的实现及应用
     - 初级排序和高级排序的实现和特性
     - 字符串算法
+  
+  设计模式
+    
+    - [23种设计模式速记](https://mp.weixin.qq.com/s/PvVQxwsU3QKEijOWpUf-1w)
+    - [单例（singleton）模式](https://mp.weixin.qq.com/s/tj2YqoRUtRgjfFMzR7KyWA)
+    - [工厂方法（factory method）模式](https://mp.weixin.qq.com/s/qY37AhlwZb0cfBhIjVP1MQ)
+    - [抽象工厂（abstract factory）模式](https://mp.weixin.qq.com/s/WK4HGUDFfDW-DWjNOcsYLg)
+    - [建造者/构建器（builder）模式 ](https://mp.weixin.qq.com/s/Vm_8_2JH-B32_2n6yfheIw)
+    - [原型（prototype）模式](https://mp.weixin.qq.com/s/1GRNj5JdzIsZOStSatc2cg)
+    - [享元（flyweight）模式](https://mp.weixin.qq.com/s/rX2RqsgqjxTVCXxEOlO68g)
+  
     
 - 性能优化
 
@@ -70,6 +81,7 @@
     - [Unix网络编程中的五种IO模型](https://mp.weixin.qq.com/s/T-hP3wt4whtvVh1H1LBU3w)
     - [深入理解IO多路复用实现机制](https://mp.weixin.qq.com/s/9uHat2nHy-fn3lbWJj5JZg)
     - [深入理解Netty核心功能与线程模型](https://mp.weixin.qq.com/s/84guHGNjabazxRcI9NMnkw)
+    - [深入理解Netty编解码、粘包拆包、心跳机制](https://mp.weixin.qq.com/s/nuZ-ey9GLUWKqMWWFqQvmQ)
    
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
