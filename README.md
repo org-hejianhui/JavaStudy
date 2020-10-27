@@ -58,6 +58,10 @@
     - [建造者/构建器（builder）模式 ](https://mp.weixin.qq.com/s/Vm_8_2JH-B32_2n6yfheIw)
     - [原型（prototype）模式](https://mp.weixin.qq.com/s/1GRNj5JdzIsZOStSatc2cg)
     - [享元（flyweight）模式](https://mp.weixin.qq.com/s/rX2RqsgqjxTVCXxEOlO68g)
+    - [外观（facade）模式](https://mp.weixin.qq.com/s/ya1dKeCI56ayGgaRf7IICg)
+    - [适配器（adapter）模式](https://mp.weixin.qq.com/s/u5QOu-QN8FWNlCVplC9OvQ)
+    - [装饰（decorator）模式](https://mp.weixin.qq.com/s/6D5agOZWDRk1Vdcy3KrshA)
+    - [观察者（observer）模式](https://mp.weixin.qq.com/s/uT4tW_B8TP-hwgeboATfdw)
   
     
 - 性能优化
