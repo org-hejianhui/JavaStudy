@@ -62,6 +62,9 @@
     - [适配器（adapter）模式](https://mp.weixin.qq.com/s/u5QOu-QN8FWNlCVplC9OvQ)
     - [装饰（decorator）模式](https://mp.weixin.qq.com/s/6D5agOZWDRk1Vdcy3KrshA)
     - [观察者（observer）模式](https://mp.weixin.qq.com/s/uT4tW_B8TP-hwgeboATfdw)
+    - [策略（strategy）模式](https://mp.weixin.qq.com/s/TDSJ403lRyRNTZfMyvaBYQ)
+    - [桥接（bridge）模式](https://mp.weixin.qq.com/s/9guODj7R-ZuBcXiyz83NeQ)
+    - [模板方法（template method）模式](https://mp.weixin.qq.com/s/lo0kJXne1AaQ1HYu8nsaug)
   
     
 - 性能优化
@@ -86,6 +89,9 @@
     - [深入理解IO多路复用实现机制](https://mp.weixin.qq.com/s/9uHat2nHy-fn3lbWJj5JZg)
     - [深入理解Netty核心功能与线程模型](https://mp.weixin.qq.com/s/84guHGNjabazxRcI9NMnkw)
     - [深入理解Netty编解码、粘包拆包、心跳机制](https://mp.weixin.qq.com/s/nuZ-ey9GLUWKqMWWFqQvmQ)
+
+- 并发编程专题
+    - [操作系统底层工作的整体认识](https://juejin.im/post/6889076335369519118)
    
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
