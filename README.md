@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-一角钱小助手-lightgrey" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-一角钱技术-lightgrey" alt="公众号"></a>
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAOhN0XemrWZKDxa6wo4TLfcNFiLU9oYveWN1-R8MimFA/"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
   <a href="https://juejin.im/user/307518986264109"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/hejianhui-72"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
