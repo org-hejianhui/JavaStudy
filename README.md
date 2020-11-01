@@ -64,7 +64,10 @@
     - [观察者（observer）模式](https://mp.weixin.qq.com/s/uT4tW_B8TP-hwgeboATfdw)
     - [策略（strategy）模式](https://mp.weixin.qq.com/s/TDSJ403lRyRNTZfMyvaBYQ)
     - [桥接（bridge）模式](https://mp.weixin.qq.com/s/9guODj7R-ZuBcXiyz83NeQ)
-    - [模板方法（template method）模式](https://mp.weixin.qq.com/s/lo0kJXne1AaQ1HYu8nsaug)
+    - [模版方法（template method）模式](https://mp.weixin.qq.com/s/lo0kJXne1AaQ1HYu8nsaug)
+    - [责任链（chain of responsibility）模式](https://mp.weixin.qq.com/s/-Kp0kUVYUrN8l3JMSKLnUw)
+    - [组合（composite）模式](https://mp.weixin.qq.com/s/v8UnN_pLICciylE-ExEcsQ)
+    - [代理（proxy）模式](https://mp.weixin.qq.com/s/MlF7yMFjDUxVYyafQI564w)
   
     
 - 性能优化
