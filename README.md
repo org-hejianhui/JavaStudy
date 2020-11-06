@@ -70,6 +70,12 @@
     - [责任链（chain of responsibility）模式](https://mp.weixin.qq.com/s/-Kp0kUVYUrN8l3JMSKLnUw)
     - [组合（composite）模式](https://mp.weixin.qq.com/s/v8UnN_pLICciylE-ExEcsQ)
     - [代理（proxy）模式](https://mp.weixin.qq.com/s/MlF7yMFjDUxVYyafQI564w)
+    - [备忘录（memento）模式](https://mp.weixin.qq.com/s/r0klG48WkHuzLDQJIQa84Q)
+    - [命令（command）模式](https://mp.weixin.qq.com/s/-vpDkDiFanEIQeuyNLk6eg)
+    - [状态（state）模式](https://mp.weixin.qq.com/s/HBEAVwk11ylilgq9yMSnYw)
+    - [中介者（mediator）模式](https://mp.weixin.qq.com/s/81aoJylqAyCTzLCOOlgFOQ)
+    - [迭代器（iterator）模式](https://mp.weixin.qq.com/s/zUYU-iGA7gEAgbcIMrrKqA)
+    - 持续更新中......
   
     
 - 性能优化
