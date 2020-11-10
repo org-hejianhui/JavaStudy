@@ -27,7 +27,8 @@
 
     - [时间复杂度和空间复杂度分析](https://mp.weixin.qq.com/s/YwmEkaQgT36InDUaF0QjyA)
     - [数组的基本实现和特性](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=302508523&idx=1&sn=70f4b4ca4f3f5adc2b833a1f592edae3&scene=19#wechat_redirect)
-    - 链表和跳表的基本实现和特性
+    - 链表的基本实现和特性
+    - [跳表的基本实现和特性](https://mp.weixin.qq.com/s/iNYypJKZsp5f-c8Hhvfw9w)
     - 栈、队列、优先队列、双端队列的实现与特性
     - 哈希表、映射、集合的实现与特性
     - [树、二叉树、二叉搜索树的实现与特性](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449993586&idx=1&sn=5016403995c555669baa8a10c956c96c&chksm=8838cf8abf4f469c287fa0cd5e590d43d98f0c72148579af1f1b8711a8e4bab29861d8623228&scene=178#rd)
@@ -54,28 +55,29 @@
   设计模式
     
     - [23种设计模式速记](https://mp.weixin.qq.com/s/PvVQxwsU3QKEijOWpUf-1w)
-    - [单例（singleton）模式](https://mp.weixin.qq.com/s/tj2YqoRUtRgjfFMzR7KyWA)
     - [工厂方法（factory method）模式](https://mp.weixin.qq.com/s/qY37AhlwZb0cfBhIjVP1MQ)
     - [抽象工厂（abstract factory）模式](https://mp.weixin.qq.com/s/WK4HGUDFfDW-DWjNOcsYLg)
-    - [建造者/构建器（builder）模式 ](https://mp.weixin.qq.com/s/Vm_8_2JH-B32_2n6yfheIw)
     - [原型（prototype）模式](https://mp.weixin.qq.com/s/1GRNj5JdzIsZOStSatc2cg)
-    - [享元（flyweight）模式](https://mp.weixin.qq.com/s/rX2RqsgqjxTVCXxEOlO68g)
-    - [外观（facade）模式](https://mp.weixin.qq.com/s/ya1dKeCI56ayGgaRf7IICg)
+    - [单例（singleton）模式](https://mp.weixin.qq.com/s/tj2YqoRUtRgjfFMzR7KyWA)
+    - [建造者/构建器（builder）模式 ](https://mp.weixin.qq.com/s/Vm_8_2JH-B32_2n6yfheIw)
     - [适配器（adapter）模式](https://mp.weixin.qq.com/s/u5QOu-QN8FWNlCVplC9OvQ)
-    - [装饰（decorator）模式](https://mp.weixin.qq.com/s/6D5agOZWDRk1Vdcy3KrshA)
-    - [观察者（observer）模式](https://mp.weixin.qq.com/s/uT4tW_B8TP-hwgeboATfdw)
-    - [策略（strategy）模式](https://mp.weixin.qq.com/s/TDSJ403lRyRNTZfMyvaBYQ)
     - [桥接（bridge）模式](https://mp.weixin.qq.com/s/9guODj7R-ZuBcXiyz83NeQ)
-    - [模版方法（template method）模式](https://mp.weixin.qq.com/s/lo0kJXne1AaQ1HYu8nsaug)
-    - [责任链（chain of responsibility）模式](https://mp.weixin.qq.com/s/-Kp0kUVYUrN8l3JMSKLnUw)
     - [组合（composite）模式](https://mp.weixin.qq.com/s/v8UnN_pLICciylE-ExEcsQ)
+    - [装饰（decorator）模式](https://mp.weixin.qq.com/s/6D5agOZWDRk1Vdcy3KrshA)
+    - [外观（facade）模式](https://mp.weixin.qq.com/s/ya1dKeCI56ayGgaRf7IICg)
+    - [享元（flyweight）模式](https://mp.weixin.qq.com/s/rX2RqsgqjxTVCXxEOlO68g)
     - [代理（proxy）模式](https://mp.weixin.qq.com/s/MlF7yMFjDUxVYyafQI564w)
-    - [备忘录（memento）模式](https://mp.weixin.qq.com/s/r0klG48WkHuzLDQJIQa84Q)
+    - [责任链（chain of responsibility）模式](https://mp.weixin.qq.com/s/-Kp0kUVYUrN8l3JMSKLnUw)
     - [命令（command）模式](https://mp.weixin.qq.com/s/-vpDkDiFanEIQeuyNLk6eg)
-    - [状态（state）模式](https://mp.weixin.qq.com/s/HBEAVwk11ylilgq9yMSnYw)
-    - [中介者（mediator）模式](https://mp.weixin.qq.com/s/81aoJylqAyCTzLCOOlgFOQ)
+    - [解释器（interpreter）模式](https://mp.weixin.qq.com/s/72TrKjQvCO_aQKwEptIdbA)
     - [迭代器（iterator）模式](https://mp.weixin.qq.com/s/zUYU-iGA7gEAgbcIMrrKqA)
-    - 持续更新中......
+    - [中介者（mediator）模式](https://mp.weixin.qq.com/s/81aoJylqAyCTzLCOOlgFOQ)
+    - [备忘录（memento）模式](https://mp.weixin.qq.com/s/r0klG48WkHuzLDQJIQa84Q)
+    - [观察者（observer）模式](https://mp.weixin.qq.com/s/uT4tW_B8TP-hwgeboATfdw)
+    - [状态（state）模式](https://mp.weixin.qq.com/s/HBEAVwk11ylilgq9yMSnYw)
+    - [策略（strategy）模式](https://mp.weixin.qq.com/s/TDSJ403lRyRNTZfMyvaBYQ)
+    - [模版方法（template method）模式](https://mp.weixin.qq.com/s/lo0kJXne1AaQ1HYu8nsaug)
+    - [访问者（visitor）模式](https://mp.weixin.qq.com/s/qi2KDJYI6lLkD6HySRrNKA)
   
     
 - 性能优化
@@ -102,7 +104,7 @@
     - [深入理解Netty编解码、粘包拆包、心跳机制](https://mp.weixin.qq.com/s/nuZ-ey9GLUWKqMWWFqQvmQ)
 
 - 并发编程专题
-    - [操作系统底层工作的整体认识](https://juejin.im/post/6889076335369519118)
+    - [操作系统底层工作的整体认识](https://mp.weixin.qq.com/s/3MVNQP7315mWekgSWN3yAQ)
    
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
