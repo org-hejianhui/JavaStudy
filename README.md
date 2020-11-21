@@ -32,7 +32,7 @@
     - 栈、队列、优先队列、双端队列的实现与特性
     - 哈希表、映射、集合的实现与特性
     - [树、二叉树、二叉搜索树的实现与特性](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449993586&idx=1&sn=5016403995c555669baa8a10c956c96c&chksm=8838cf8abf4f469c287fa0cd5e590d43d98f0c72148579af1f1b8711a8e4bab29861d8623228&scene=178#rd)
-    - 堆和二叉堆的实现和特性
+    - [堆和二叉堆的实现和特性](https://mp.weixin.qq.com/s/EixoQhjVIazUwqodsfW76A)
     - 图的实现和特性
     - 递归的实现、特性以及思维要点
     - [分治、回溯的实现和特性](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449992294&idx=1&sn=0279a09ff528c0f4848d3f24c2725c20&scene=19#wechat_redirect)
@@ -105,10 +105,18 @@
 
 - 并发编程专题
     - [操作系统底层工作的整体认识](https://mp.weixin.qq.com/s/3MVNQP7315mWekgSWN3yAQ)
-   
+    - [深入理解Java内存模型(JMM)及volatile关键字](https://juejin.im/post/6893430262084927496)
+    - [深入理解CPU缓存一致性协议(MESI)](https://juejin.im/post/6893792938824990734)
+    - [并发编程之synchronized深入理解](https://mp.weixin.qq.com/s/CwC2XChMMfqKmebsJTWmcw)
+    - [阻塞队列 — ArrayBlockingQueue源码分析](https://mp.weixin.qq.com/s/2caCU9aKql_RSwiKoCzXSg)
+    - [阻塞队列 — LinkedBlockingQueue源码分析](https://mp.weixin.qq.com/s/aOM0G1ZGdCr4Fg_qRzXKXw)
+    - [阻塞队列 — PriorityBlockingQueue源码分析](https://mp.weixin.qq.com/s/nJE04W7iCsP1iXrY-Ybqjw)
+
+
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
 
   <a name="微信"></a>  <a name="公众号"></a>
   
  ![](http://note.youdao.com/yws/public/resource/dc48a3654a1f505ae44450989de42c93/xmlnote/951B6B9454D548668E9208D249FEA2F8/19927)
+ 
