@@ -111,7 +111,10 @@
     - [阻塞队列 — ArrayBlockingQueue源码分析](https://mp.weixin.qq.com/s/2caCU9aKql_RSwiKoCzXSg)
     - [阻塞队列 — LinkedBlockingQueue源码分析](https://mp.weixin.qq.com/s/aOM0G1ZGdCr4Fg_qRzXKXw)
     - [阻塞队列 — PriorityBlockingQueue源码分析](https://mp.weixin.qq.com/s/nJE04W7iCsP1iXrY-Ybqjw)
-
+    - [阻塞队列 — DelayQueue源码分析](https://mp.weixin.qq.com/s/F9AdC_Cqi9hewpagwfHKqw)
+    - [阻塞队列 — SynchronousQueue源码分析](https://mp.weixin.qq.com/s/dvCglD183c11knIzxrD-hQ)
+    - [阻塞队列 — LinkedBlockingDeque源码分析](https://mp.weixin.qq.com/s/2URLcc3I24mFDuJqXUQClA)
+    - [阻塞队列 — DelayedWorkQueue源码分析](https://mp.weixin.qq.com/s/cgHr9KEag-87zE8_HVC91g)
 
 
 技术交流群：添加我微信  org_hejianhui  备注【加群】即可
