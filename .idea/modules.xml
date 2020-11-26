@@ -3,6 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-designpatterns/designpattern.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-designpatterns/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/jmm-specification/jmm-specification.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/jmm-specification/jmm-specification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/juc-atomic/juc-atomic.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/juc-atomic/juc-atomic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/juc-threadpool/juc-threadpool.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/juc-threadpool/juc-threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/niuh-juc-final.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/niuh-juc-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-netty/niuh-netty.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-netty/niuh-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/niuh-zookeeper.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/niuh-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/thread-concurrent/thread-concurrent.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/thread-concurrent/thread-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/thread-syncronized/thread-syncronized.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/thread-syncronized/thread-syncronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-agent/zookeeper-agent.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-agent/zookeeper-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-client/zookeeper-client.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-client/zookeeper-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-dubbo/zookeeper-dubbo.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-dubbo/zookeeper-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-lock/zookeeper-lock.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-lock/zookeeper-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-master/zookeeper-master.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-master/zookeeper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-web/zookeeper-web.iml" filepath="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/zookeeper-web/zookeeper-web.iml" />
     </modules>
   </component>
 </project>

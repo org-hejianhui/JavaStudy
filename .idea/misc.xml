@@ -3,5 +3,15 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-designpatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-juc-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/../../mycode/Niuh-Study/niuh-zookeeper/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

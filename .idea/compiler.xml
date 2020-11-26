@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="designpattern" />
+        <module name="jmm-specification" />
+        <module name="juc-atomic" />
+        <module name="juc-threadpool" />
+        <module name="niuh-netty" />
+        <module name="thread-concurrent" />
+        <module name="thread-syncronized" />
+        <module name="zookeeper-agent" />
+        <module name="zookeeper-client" />
+        <module name="zookeeper-dubbo" />
+        <module name="zookeeper-lock" />
+        <module name="zookeeper-master" />
+        <module name="zookeeper-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="designpattern" target="1.8" />
+      <module name="jmm-specification" target="1.8" />
+      <module name="juc-atomic" target="1.8" />
+      <module name="juc-threadpool" target="1.8" />
+      <module name="niuh-juc-final" target="1.8" />
+      <module name="niuh-netty" target="8" />
+      <module name="niuh-zookeeper" target="1.5" />
+      <module name="thread-concurrent" target="1.8" />
+      <module name="thread-syncronized" target="1.8" />
+      <module name="zookeeper-agent" target="1.8" />
+      <module name="zookeeper-client" target="8" />
+      <module name="zookeeper-dubbo" target="1.5" />
+      <module name="zookeeper-lock" target="8" />
+      <module name="zookeeper-master" target="8" />
+      <module name="zookeeper-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jmm-specification" options="-parameters" />
+      <module name="juc-atomic" options="-parameters" />
+      <module name="juc-threadpool" options="-parameters" />
+      <module name="thread-concurrent" options="-parameters" />
+      <module name="thread-syncronized" options="-parameters" />
+      <module name="zookeeper-web" options="-parameters" />
+    </option>
+  </component>
+</project>
