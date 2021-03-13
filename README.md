@@ -220,7 +220,9 @@
 
 技术交流群：QQ群:1158819530 (备注【加群】即可)，也可添加我微信  org_hejianhui  
 
-  <a name="微信"></a>  <a name="公众号"></a>
+ <a name="公众号"></a>
+ ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cdf9e8a6284a4a458af329a479c0f185~tplv-k3u1fbpfcp-watermark.image)
   
+ <a name="微信"></a> 
  ![](http://note.youdao.com/yws/public/resource/dc48a3654a1f505ae44450989de42c93/xmlnote/951B6B9454D548668E9208D249FEA2F8/19927)
  
