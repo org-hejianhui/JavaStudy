@@ -190,7 +190,8 @@
   - [注册中心CAP架构剖析](https://www.processon.com/view/link/604cc78463768958e99a8568)  
   - [微服务Ribbon调用流程总图](https://www.processon.com/view/link/604cc55b07912945c3195fc9)
   - [微服务调用组件Ribbon源码剖析](https://www.processon.com/view/link/604cc5ce5653bb61d3f9d4a8)
-  - [微服务调用组件Feign源码剖析](https://www.processon.com/view/link/604cc6271e08537ac5c1bb46)
+  - [微服务调用组件Feign源码剖析](https://www.processon.com/view/link/604cc6271e08537ac5c1bb46
+  - [微服务限流容错降级Sentinel实战](https://mp.weixin.qq.com/s?__biz=MzA4NjI1MTkyNw==&mid=2449996632&idx=1&sn=6af2b413f8a03d3e8ef8749a8ddecc58&chksm=8838dba0bf4f52b6ad71b96570e2b007ce39f9d483e3983c5eb3a393f03d0180082cd36e00ae&scene=178&cur_album_id=1439937085280059393#rd)
   - [微服务限流容错降级Sentinel启动流程](https://www.processon.com/view/link/604cc6aaf346fb78ada96f6b)
   - [微服务限流容错降级Sentinel限流、熔断降级源码剖析](https://www.processon.com/view/link/604cc702e401fd596080c35b)
   - 微服务分布式事物解决方案Seata
